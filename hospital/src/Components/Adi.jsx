@@ -1,7 +1,14 @@
 import React from 'react'
 
-export const Adi = () => {
+const Adi = () => {
   return (
-    <div>Adi</div>
+    <div>
+      <h2>
+        Adhisheshu
+      </h2>
+    </div>
   )
 }
+
+export default Adi
+

@@ -2,7 +2,11 @@ import React from 'react'
 
 function Ray() {
   return (
-    <div>Ray</div>
+    <div>
+      <h3>
+        RAYUDU
+      </h3>
+    </div>
   )
 }
 
